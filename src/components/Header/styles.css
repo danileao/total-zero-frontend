@@ -1,0 +1,24 @@
+header {
+  display: flex;
+  width: 100%;
+  padding: 30px;
+  height: 40px;
+  background: rgb(34, 34, 34);
+  justify-content: space-between;
+}
+
+header strong {
+  color: #fff;
+}
+
+header a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0 10px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header a:hover {
+  color: rgb(145, 142, 142);
+}
