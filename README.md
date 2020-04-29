@@ -26,7 +26,7 @@ Durante o desenvolvimento, foi ensinado conceitos como Hooks, dentro do ReactJS,
 - [Fontes Google](https://fonts.google.com/)
 - [Conceitos de Table Html](https://www.w3schools.com/tags/tag_th.asp)
 
-## Como baixar
+## ⬇️ Como baixar
 
 ```bash
 
