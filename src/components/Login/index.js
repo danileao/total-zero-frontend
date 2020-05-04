@@ -20,7 +20,9 @@ function Login() {
   function handleSubmit(e) {
     e.preventDefault();
     authentication(usuario);
-    history.push("/");
+    setTimeout(() => {
+      history.push("/");
+    }, 1000);
   }
 
   return (

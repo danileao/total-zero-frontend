@@ -18,7 +18,7 @@ function Register() {
 
   function handleSubmit(e) {
     e.preventDefault();
-    api.post("/users", usuario).then(() => {
+    api.post("/users", usuario).then((response) => {
       history.push("/login");
     });
   }
